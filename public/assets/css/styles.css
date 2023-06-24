@@ -431,7 +431,7 @@ html body .db {
   border-radius: 100%; }
 
 .theme-cl{
-	color:#017efa !important;
+	color:#196e8d !important;
 }
 .theme-bg{
 	background:#017efa !important;
@@ -1628,8 +1628,8 @@ table.table tr th {
 	color:#ffffff;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active{
-	background:#0475e5 !important;
-	border-color:#0475e5 !important;
+	background:#2a8b9b !important;
+	border-color:#2a8b9b !important;
 	color:#ffffff !important;
 }
 .btn-outline-primary{
@@ -2319,7 +2319,7 @@ nav a:hover {
 .nav-menu>.active>a,
 .nav-menu>.focus>a,
 .nav-menu>li:hover>a {
-    color:#017efa !important;
+    color:#2a8b9b !important;
 }
 
 .nav-menu>li>a>[class*=ion-],
@@ -5187,7 +5187,7 @@ span.prefix-title {
     height: 40px;
     border-radius: 50%;
     background: rgba(1, 126, 250,0.1);
-    color: #017efa;
+    color: #2a8b9b;
     margin-right: 10px;
 }
 .single-side-text h6 {
@@ -5763,7 +5763,7 @@ span.verify-icon {
     align-items: center;
     justify-content: center;
     border-radius: 100px 0px 100px 100px;
-    color: #017efa;
+    color: #196e8d;
     font-size: 25px;
 }
 .veshm-achivement-content {
@@ -6101,7 +6101,7 @@ span.verify-icon {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background: #017efa;
+    background: #2a8b9b;
     border-radius: 6px;
     color: white;
     font-size: 25px;
