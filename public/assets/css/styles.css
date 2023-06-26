@@ -6224,7 +6224,7 @@ span.verify-icon {
     justify-content: center;
     box-shadow: 4px 3px 8px 4px rgb(13 40 68 / 10%);
     -webkit-box-shadow: 4px 3px 8px 4px rgb(13 40 68 / 10%);
-    color: #017efa;
+    color: #2a8b9b;
 }
 .veshm-servs-box-caption {
     position: relative;
@@ -6577,7 +6577,7 @@ div#filTabContent {
     color: #ffffff;
 }
 .page-title .ipn-subtitle {
-    color: #199dff;
+    color: #fff;
     font-weight: 500;
 }
 .team-grid {
